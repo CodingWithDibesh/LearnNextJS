@@ -10,6 +10,8 @@
 - __Next.js__ automatically optimizes your application for the best performance by code splitting, client-side navigation, and prefetching (in production).
 - Use `<Head></Head>` tag provided by `next/head` to handel meta tags
 - Use `<Script></Script>` tag provided by `next/script` to handel third-party scripts
+- Use of Meta tags like og, description of better SEO
+- Navigating between pages
 
 ## Tags To Remember
 
