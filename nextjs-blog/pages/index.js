@@ -11,8 +11,8 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello I'm Dibesh Raj Subedi and being a software engineer was my childhood dream and I’m among those living their dream. I seek all possible ways to learn, share, grow, and help others succeed. I enjoy coding, listening to music, and watching movies as we all do beside that I captivate myself in writing(tech/non-tech) articles. </p>
         <p>
-          (This is a sample website - I’ve built a site like this on{' '}
-          <a href="https://github.com/itSubeDibesh/LearnNextJS">our Next.js tutorial</a>.)
+          (A Part of my journey through NextJS{' '}
+          <a href="https://github.com/itSubeDibesh/LearnNextJS"> Github</a>.)
         </p>
       </section>
     </Layout>
