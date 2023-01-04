@@ -2,6 +2,8 @@
 
 📓 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+[👈 Back to Root](../ReadMe.md)
+
 ## Things Learnt
 
 - __NextJS__ supports full SSR/SSG and CSR
@@ -19,3 +21,5 @@
 - `Image`
 - `Head`
 - `Script`
+
+[👉 To Day 2](REARME2.MD)
