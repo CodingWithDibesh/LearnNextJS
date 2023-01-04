@@ -29,6 +29,7 @@ A journey of [mine](https://github.com/itSubeDibesh) to learn [NextJs](https://n
 Every daily achievements wil be logged below to recall and understand concepts touched
 
 - [Day 1(nextjs-blog)](./nextjs-blog/README.md) 📖 Link tag along with concepts like code spitting, pre-rendering and many more.
+- [Day 2(Day1 Continued)](./nextjs-blog/REARME2.MD) 📖 Pre-rendering and Data Fetching
 
 ## References
 
